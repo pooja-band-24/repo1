@@ -1,0 +1,1 @@
+Updated Java file content with removed deprecated APIs

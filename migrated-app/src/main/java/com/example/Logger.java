@@ -1,0 +1,1 @@
+Updated Logger.java content
